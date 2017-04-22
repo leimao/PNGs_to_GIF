@@ -1,4 +1,6 @@
-# http://imageio.readthedocs.io/
+# Author: Lei Mao
+# Date: 4/22/2017
+# Reference: http://imageio.readthedocs.io/
 
 import imageio
 import os
